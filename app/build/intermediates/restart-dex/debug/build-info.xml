@@ -4,30 +4,35 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="296137917468986"
+    timestamp="296406363870289"
     token="-2041150835766700049" >
 
     <task
         name="javac"
-        duration="399" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="94" />
+        duration="0" />
     <task
         name="verifier"
-        duration="21" />
+        duration="0" />
 
     <artifact
-        location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
     <build timestamp="296137917468986" >
         <artifact
             location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="296406363870289" >
+        <artifact
+            location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
