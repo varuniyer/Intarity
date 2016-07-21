@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Let&apos;s donate to causes, not organizations"
-        android:textSize="30dp"
+        android:textSize="25dp"
         android:textAlignment="center"
         android:textColor="#ffab00"
         android:textStyle="bold"
