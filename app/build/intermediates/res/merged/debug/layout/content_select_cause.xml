@@ -38,8 +38,8 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Poverty Elimination"
-                android:id="@+id/textView2"
+                android:text="Civil Rights and Freedom"
+                android:id="@+id/cr_fr"
                 android:textSize="20sp"
                 android:layout_marginTop="20dp" />
 
@@ -47,78 +47,60 @@
                 android:orientation="vertical"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="right"
                 android:layout_marginLeft="50dp">
 
                 <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Haiti"
-                    android:id="@+id/canada"
+                    android:text="Animal Freedom"
+                    android:id="@+id/animals"
                     android:checked="false" />
 
                 <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Argentina"
-                    android:id="@+id/brazil"
+                    android:text="Women's Rights"
+                    android:id="@+id/women"
                     android:checked="false" />
 
                 <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Rwanda"
-                    android:id="@+id/rwanda"
+                    android:text="Worker Amnesty"
+                    android:id="@+id/amnesty"
+                    android:checked="false" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Environmental Restoration"
+                android:id="@+id/env_res"
+                android:textSize="20sp"
+                android:layout_marginTop="20dp" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp">
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Green Energy"
+                    android:id="@+id/green"
                     android:checked="false" />
 
                 <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Ethiopia"
-                    android:id="@+id/ethiopia"
-                    android:checked="false" />
+                    android:text="Resource Conservation"
+                    android:id="@+id/res_cons"
+                    android:checked="false"
+                    android:layout_marginBottom="20dp" />
 
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Malawi"
-                    android:id="@+id/malawi"
-                    android:checked="false" />
 
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Liberia"
-                    android:id="@+id/liberia"
-                    android:checked="false" />
-
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Madagascar"
-                    android:id="@+id/madagascar"
-                    android:checked="false" />
-
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Vietnam"
-                    android:id="@+id/vietnam"
-                    android:checked="false" />
-
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Phillipenes"
-                    android:id="@+id/phillipenes"
-                    android:checked="false" />
-
-                <CheckBox
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Armenia"
-                    android:id="@+id/armenia"
-                    android:checked="false" />
             </LinearLayout>
 
             <GridLayout

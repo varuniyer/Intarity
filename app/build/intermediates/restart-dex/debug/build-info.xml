@@ -4,7 +4,7 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="296406363870289"
+    timestamp="299405807983867"
     token="-2041150835766700049" >
 
     <task
@@ -20,19 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-
-    <build timestamp="296137917468986" >
+    <build timestamp="298727824856643" >
         <artifact
             location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="296406363870289" >
-        <artifact
-            location="/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
+    <build timestamp="299405807983867" />
 
 </instant-run>
