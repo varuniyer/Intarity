@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:text="$"
         android:id="@+id/sign"
-        android:layout_alignBottom="@+id/editText"
+        android:layout_centerVertical="true"
         android:layout_toLeftOf="@+id/editText"
         android:layout_toStartOf="@+id/editText" />
 
