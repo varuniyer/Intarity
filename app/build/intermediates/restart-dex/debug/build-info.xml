@@ -4,7 +4,7 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="355807596366299"
+    timestamp="355860297355131"
     token="-356409506892794545" >
 
     <task
@@ -19,10 +19,6 @@
     <task
         name="verifier"
         duration="0" />
-
-    <artifact
-        location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
 
     <build timestamp="351821084839105" >
         <artifact
@@ -44,5 +40,6 @@
             location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
+    <build timestamp="355860297355131" />
 
 </instant-run>
