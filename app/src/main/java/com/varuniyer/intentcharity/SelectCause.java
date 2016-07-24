@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class SelectCause extends AppCompatActivity {
 
     public void goToManage(View v) {
-        Manage.checked = new ArrayList<String>();
+        Manage.checked = new ArrayList<>();
         LinearLayout l = (LinearLayout) findViewById(R.id.linearLayout);
         CheckBox box;
         for (int i = 0; i < l.getChildCount(); i++) {
