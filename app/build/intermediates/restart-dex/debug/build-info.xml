@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="354699774274140"
+    token="-356409506892794545"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="1064" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="145" />
+    <task
+        name="verifier"
+        duration="90" />
+
+    <artifact
+        location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="351821084839105" >
+        <artifact
+            location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="354699774274140"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
