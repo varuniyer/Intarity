@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/menu/menu_manage.xml",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/src/main/res/menu/menu_manage.xml"
     },
     {
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/menu/menu_select_cause.xml",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/src/main/res/menu/menu_select_cause.xml"
+=======
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/menu/menu_manage.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/src/main/res/menu/menu_manage.xml"
+    },
+    {
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/menu/menu_select_cause.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/src/main/res/menu/menu_select_cause.xml"
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
     }
 ]

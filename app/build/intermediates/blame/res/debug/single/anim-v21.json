@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
@@ -10,5 +11,17 @@
     {
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+=======
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
     }
 ]

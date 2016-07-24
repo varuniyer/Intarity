@@ -37,6 +37,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+<<<<<<< HEAD
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -46,4 +47,6 @@
         android:layout_toLeftOf="@+id/editText"
         android:layout_toStartOf="@+id/editText" />
 
+=======
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
 </RelativeLayout>

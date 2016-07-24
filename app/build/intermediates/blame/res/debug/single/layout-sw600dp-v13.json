@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+=======
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
     }
 ]

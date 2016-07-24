@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+=======
+        "outputFile": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 117
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

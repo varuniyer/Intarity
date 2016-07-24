@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+=======
+        "merged": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/varuniyer/Android_Studio/IntentCharity/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
     }
 ]

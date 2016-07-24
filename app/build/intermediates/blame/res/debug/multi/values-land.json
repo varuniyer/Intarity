@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+=======
+        "outputFile": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 120
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 184
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 255
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 323
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -88,7 +108,11 @@
                     "endOffset": 505
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/varuniyer/AndroidStudioProjects/Intarity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/values-land/values-land.xml",
+=======
+                    "file": "/Users/varuniyer/Android_Studio/IntentCharity/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/values-land/values-land.xml",
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

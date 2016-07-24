@@ -130,12 +130,18 @@ public class Manage extends AppCompatActivity {
                                  Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_manage, container, false);
             TextView textView = (TextView) rootView.findViewById(R.id.section_label);
+<<<<<<< HEAD
             TextView prompt = (TextView) rootView.findViewById(R.id.textView3);
             String str = getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER));
             textView.setText(checked.get(Integer.parseInt(str.substring(str.length() - 1)) - 1));
             prompt.setText("Please enter how much would you like to contribute to " +
                             checked.get(Integer.parseInt(str.substring(str.length() - 1)) - 1));
 
+=======
+
+            String str = getString(R.string.section_format, getArguments().getInt(ARG_SECTION_NUMBER));
+            textView.setText(checked.get(Integer.parseInt(str.substring(str.length() - 1)) - 1));
+>>>>>>> c8b69bbdebb30bc6a91bf3cbc98acd4b9633215a
             Log.i("R.string.section_format", R.string.section_format + "");
             Log.i("latter part", getArguments().getInt(ARG_SECTION_NUMBER) + "");
 
